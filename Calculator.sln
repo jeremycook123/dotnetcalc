@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeTester", "PrimeTester\PrimeTester.csproj", "{C5EB3D5B-A43F-4F6F-BEC9-B63EFFA42978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddService", "AddService\AddService.csproj", "{054B8B28-8FEE-423A-8BB0-E94E762131CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddServiceTests", "AddServiceTests\AddServiceTests.csproj", "{E4FBA2D6-6115-4281-A356-6B4D5B786777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5EB3D5B-A43F-4F6F-BEC9-B63EFFA42978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EB3D5B-A43F-4F6F-BEC9-B63EFFA42978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EB3D5B-A43F-4F6F-BEC9-B63EFFA42978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EB3D5B-A43F-4F6F-BEC9-B63EFFA42978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054B8B28-8FEE-423A-8BB0-E94E762131CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054B8B28-8FEE-423A-8BB0-E94E762131CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054B8B28-8FEE-423A-8BB0-E94E762131CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054B8B28-8FEE-423A-8BB0-E94E762131CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4FBA2D6-6115-4281-A356-6B4D5B786777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FBA2D6-6115-4281-A356-6B4D5B786777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FBA2D6-6115-4281-A356-6B4D5B786777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FBA2D6-6115-4281-A356-6B4D5B786777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
