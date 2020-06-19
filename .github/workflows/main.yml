@@ -22,7 +22,7 @@ jobs:
     - name: Test
       run: dotnet test --no-restore --verbosity normal
     - name: Publish
-      run: cd Calc && dotnet publish --runtime osx.10.14-x64 -c Release -o ./deploy
+      run: cd Calc && dotnet publish -r osx-x64 -c Release -o ./deploy
     - name: Upload Artifact
       uses: actions/upload-artifact@v1.0.0
       with:
