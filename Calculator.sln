@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeTester", "PrimeTester\PrimeTester.csproj", "{C5EB3D5B-A43F-4F6F-BEC9-B63EFFA42978}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{C5EB3D5B-A43F-4F6F-BEC9-B63EFFA42978}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddService", "AddService\AddService.csproj", "{054B8B28-8FEE-423A-8BB0-E94E762131CF}"
 EndProject
