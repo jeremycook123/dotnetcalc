@@ -6,6 +6,7 @@
     <PublishTrimmed>true</PublishTrimmed>
     <PublishReadyToRun>true</PublishReadyToRun>
     <PublishSingleFile>true</PublishSingleFile>
+    <RuntimeIdentifier>osx-x64</RuntimeIdentifier>        
     <CrossGenDuringPublish>false</CrossGenDuringPublish>        
   </PropertyGroup>
 
